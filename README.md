@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koni-Timeless
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning Everything
+- 👀 I’m interested in Building things
+- 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me ?- You can't
 - 😄 Pronouns: What?
