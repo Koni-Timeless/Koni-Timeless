@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Koni-Timeless
+- 👋 Hi, I’m Koni
 - 👀 I’m interested in Building things
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on Everything
+- 💞️ I’m looking to collaborate on Programming and game design,testing,qa etc
 - 📫 How to reach me ?- You can't
 - 😄 Pronouns: What?
 - ⚡ Fun fact: You have not seen me before
